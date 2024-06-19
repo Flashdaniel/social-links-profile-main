@@ -72,4 +72,4 @@ Better ways to write clean code, place the footer to the bottom of the page and 
 ## Author
 
 - Frontend Mentor - [@flashdaniel](https://www.frontendmentor.io/profile/Flashdaniel)
-- Linkedin - [@Nweze Daniel](https://www.twitter.com/yourusername)
+- Linkedin - [@Nweze Daniel](https://www.linkedin.com/in/daniel-nweze-017909214/)
